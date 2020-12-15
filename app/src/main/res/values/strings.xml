@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea 3 Fragmentos por Javier Villarejo</string>
+
+    <string-array name="asignaturas">
+        <item>programacion</item>
+        <item>BBDD</item>
+    </string-array>
+</resources>
